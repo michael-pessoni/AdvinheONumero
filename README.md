@@ -1,4 +1,4 @@
-# Advinhe o número
+# Guess the number
 
-Aplicativo simples para advinhar um número aleatório. 
-Escrito para treinar habilidades básicas adquiridas em Java
+Simple app for guessing random numbers.
+Written in Java to practice some basic skills and knowledges
